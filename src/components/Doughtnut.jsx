@@ -109,7 +109,7 @@ const DoughnutBar = () => {
   return (
     <div>
       {/* <div style={{ border: "1px solid red" }}> */}
-        <Doughnut
+        {/* <Doughnut
        
           data={data}
           plugins={plugins}
@@ -129,7 +129,8 @@ const DoughnutBar = () => {
           //     },
           //   }}
           
-        />
+        /> */}
+        <img src="https://drive.google.com/uc?export=view&id=1t7y1eZ9TJ5XQ-Xo3wFjN5T199vsVxNCo" alt="" width="200px" />
      {/* </div> */}
     </div>
   );

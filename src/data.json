@@ -1,0 +1,572 @@
+[
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 07:30:29",
+      "EndTime": "2022-12-03 07:51:56",
+      "TimeDiffInSec": 1287,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 1.5560956146396316
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-03 07:51:56",
+      "EndTime": "2022-12-03 07:52:30",
+      "TimeDiffInSec": 34,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.04110897505652484
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 07:52:30",
+      "EndTime": "2022-12-03 09:18:12",
+      "TimeDiffInSec": 5142,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 6.217127933548551
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-03 09:18:12",
+      "EndTime": "2022-12-03 09:18:30",
+      "TimeDiffInSec": 18,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.021763575029924917
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 09:18:30",
+      "EndTime": "2022-12-03 09:48:48",
+      "TimeDiffInSec": 1818,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 2.1981210780224165
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-03 09:48:48",
+      "EndTime": "2022-12-03 09:49:29",
+      "TimeDiffInSec": 41,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.04957258756816231
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 09:49:29",
+      "EndTime": "2022-12-03 12:38:16",
+      "TimeDiffInSec": 10127,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 12.24442912933609
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-03 12:38:16",
+      "EndTime": "2022-12-03 12:38:22",
+      "TimeDiffInSec": 6,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.007254525009974972
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 12:38:22",
+      "EndTime": "2022-12-03 12:38:28",
+      "TimeDiffInSec": 6,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.007254525009974972
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-03 12:38:28",
+      "EndTime": "2022-12-03 12:38:29",
+      "TimeDiffInSec": 1,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.0012090875016624954
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 12:38:29",
+      "EndTime": "2022-12-03 12:38:34",
+      "TimeDiffInSec": 5,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.006045437508312477
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-03 12:38:34",
+      "EndTime": "2022-12-03 12:38:37",
+      "TimeDiffInSec": 3,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.003627262504987486
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 12:38:37",
+      "EndTime": "2022-12-03 12:38:40",
+      "TimeDiffInSec": 3,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.003627262504987486
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-03 12:38:40",
+      "EndTime": "2022-12-03 12:38:49",
+      "TimeDiffInSec": 9,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.010881787514962458
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 12:38:49",
+      "EndTime": "2022-12-03 13:37:56",
+      "TimeDiffInSec": 3547,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 4.288633368396871
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-03 13:37:56",
+      "EndTime": "2022-12-03 13:38:29",
+      "TimeDiffInSec": 33,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.039899887554862346
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-03 13:38:29",
+      "EndTime": "2022-12-03 14:29:59",
+      "TimeDiffInSec": 3090,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 3.7360803801371105
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-04 06:30:30",
+      "EndTime": "2022-12-04 06:40:13",
+      "TimeDiffInSec": 583,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.7048980134692348
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-04 06:40:13",
+      "EndTime": "2022-12-04 06:40:19",
+      "TimeDiffInSec": 6,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.007254525009974972
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-04 06:40:19",
+      "EndTime": "2022-12-04 09:10:04",
+      "TimeDiffInSec": 8985,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 10.86365120243752
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-04 09:10:04",
+      "EndTime": "2022-12-04 09:10:29",
+      "TimeDiffInSec": 25,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.030227187541562384
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-04 09:10:29",
+      "EndTime": "2022-12-04 10:45:57",
+      "TimeDiffInSec": 5728,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 6.925653209522774
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-04 10:45:57",
+      "EndTime": "2022-12-04 10:46:05",
+      "TimeDiffInSec": 8,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.009672700013299963
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-04 10:46:05",
+      "EndTime": "2022-12-04 14:11:28",
+      "TimeDiffInSec": 12323,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 14.89958528298693
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-04 14:11:28",
+      "EndTime": "2022-12-04 14:11:30",
+      "TimeDiffInSec": 2,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.0024181750033249907
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-04 14:11:30",
+      "EndTime": "2022-12-04 14:11:43",
+      "TimeDiffInSec": 13,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.01571813752161244
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-04 14:11:43",
+      "EndTime": "2022-12-04 14:12:30",
+      "TimeDiffInSec": 47,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.05682711257813728
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-04 14:12:30",
+      "EndTime": "2022-12-04 14:29:59",
+      "TimeDiffInSec": 1049,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 1.2683327892439575
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 06:30:31",
+      "EndTime": "2022-12-05 06:49:34",
+      "TimeDiffInSec": 1143,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 1.3819870144002322
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 06:49:34",
+      "EndTime": "2022-12-05 06:50:31",
+      "TimeDiffInSec": 57,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.06891798759476224
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 06:50:31",
+      "EndTime": "2022-12-05 07:19:15",
+      "TimeDiffInSec": 1724,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 2.084466852866142
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 07:19:15",
+      "EndTime": "2022-12-05 07:19:31",
+      "TimeDiffInSec": 16,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.019345400026599926
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 07:19:31",
+      "EndTime": "2022-12-05 09:03:32",
+      "TimeDiffInSec": 6241,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 7.545915097875634
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 09:03:32",
+      "EndTime": "2022-12-05 09:04:31",
+      "TimeDiffInSec": 59,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.07133616259808723
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 09:04:31",
+      "EndTime": "2022-12-05 09:04:34",
+      "TimeDiffInSec": 3,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.003627262504987486
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 09:04:34",
+      "EndTime": "2022-12-05 09:05:31",
+      "TimeDiffInSec": 57,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.06891798759476224
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 09:05:31",
+      "EndTime": "2022-12-05 09:36:18",
+      "TimeDiffInSec": 1847,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 2.2331846155706288
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 09:36:18",
+      "EndTime": "2022-12-05 09:36:32",
+      "TimeDiffInSec": 14,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.016927225023274935
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 09:36:32",
+      "EndTime": "2022-12-05 10:16:08",
+      "TimeDiffInSec": 2376,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 2.872791903950089
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 10:16:08",
+      "EndTime": "2022-12-05 10:16:11",
+      "TimeDiffInSec": 3,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.003627262504987486
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 10:16:11",
+      "EndTime": "2022-12-05 10:23:43",
+      "TimeDiffInSec": 452,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.5465075507514479
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 10:23:43",
+      "EndTime": "2022-12-05 10:24:32",
+      "TimeDiffInSec": 49,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.059245287581462275
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 10:24:32",
+      "EndTime": "2022-12-05 11:14:58",
+      "TimeDiffInSec": 3026,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 3.658698780030711
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 11:14:58",
+      "EndTime": "2022-12-05 11:15:01",
+      "TimeDiffInSec": 3,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.003627262504987486
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 11:15:01",
+      "EndTime": "2022-12-05 11:16:41",
+      "TimeDiffInSec": 100,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.12090875016624954
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 11:16:41",
+      "EndTime": "2022-12-05 11:16:50",
+      "TimeDiffInSec": 9,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.010881787514962458
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 11:16:50",
+      "EndTime": "2022-12-05 11:19:19",
+      "TimeDiffInSec": 149,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.1801540377477118
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 11:19:19",
+      "EndTime": "2022-12-05 11:19:25",
+      "TimeDiffInSec": 6,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.007254525009974972
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 11:19:25",
+      "EndTime": "2022-12-05 11:19:58",
+      "TimeDiffInSec": 33,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.039899887554862346
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 11:19:58",
+      "EndTime": "2022-12-05 11:20:01",
+      "TimeDiffInSec": 3,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.003627262504987486
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 11:20:01",
+      "EndTime": "2022-12-05 11:21:25",
+      "TimeDiffInSec": 84,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.10156335013964961
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 11:21:25",
+      "EndTime": "2022-12-05 11:21:31",
+      "TimeDiffInSec": 6,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.007254525009974972
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 11:21:31",
+      "EndTime": "2022-12-05 11:27:44",
+      "TimeDiffInSec": 373,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 0.4509896381201108
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 11:27:44",
+      "EndTime": "2022-12-05 11:28:31",
+      "TimeDiffInSec": 47,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.05682711257813728
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 11:28:31",
+      "EndTime": "2022-12-05 11:54:38",
+      "TimeDiffInSec": 1567,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 1.8946401151051302
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING ON",
+      "StartTime": "2022-12-05 11:54:38",
+      "EndTime": "2022-12-05 11:54:41",
+      "TimeDiffInSec": 3,
+      "MachineStatusColorCode": "#52B56D",
+      "Percentage": 0.003627262504987486
+  },
+  {
+      "MachineKey": 482,
+      "ShiftKey": "Shift_1",
+      "DippingStatus": "DIPPING OFF",
+      "StartTime": "2022-12-05 11:54:41",
+      "EndTime": "2022-12-05 14:29:59",
+      "TimeDiffInSec": 9318,
+      "MachineStatusColorCode": "#ED5F53",
+      "Percentage": 11.266277340491131
+  }
+]
