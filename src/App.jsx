@@ -9,6 +9,7 @@ import VisavailChart from "./components/Vsavail";
 // import DoughnutUpdate from './components/UpdateDoughnut'
 // import Scroll from './components/infiniteScroll'
 // import DoughnutBar from './components/Doughtnut'
+import Search from "./components/Search";
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
       {/* <Flexchart/> */}
       {/* <OverviewChart/> */}
       {/* <VisavailChart/> */}
-      <Main />
+      {/* <Main /> */}
+      <Search/>
     </div>
   );
 }
